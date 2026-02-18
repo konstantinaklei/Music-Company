@@ -1,5 +1,5 @@
-Music Company Management System (DBMS)
-Overview
+#Music Company Management System (DBMS)
+#Overview
 This project is a robust Relational Database Management System (DBMS) designed to handle the core operations of a music label. It manages relationships between artists, albums, songs, producers, and managers. The system is built using PostgreSQL and features automated data integrity through triggers and complex server-side logic via stored procedures.
 
 Technical Stack
